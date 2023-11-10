@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactTask6/static/css/main.e60c5eb3.css",
+    "main.js": "/ReactTask6/static/js/main.f0d58e3d.js",
+    "static/js/787.0ae72898.chunk.js": "/ReactTask6/static/js/787.0ae72898.chunk.js",
+    "static/media/education.gif": "/ReactTask6/static/media/education.514841f260f5e4809383.gif",
+    "static/media/hello.gif": "/ReactTask6/static/media/hello.ffb660e34116e4c61ce0.gif",
+    "static/media/Athin.jpg": "/ReactTask6/static/media/Athin.27e357d64088ece3b418.jpg",
+    "index.html": "/ReactTask6/index.html",
+    "main.e60c5eb3.css.map": "/ReactTask6/static/css/main.e60c5eb3.css.map",
+    "main.f0d58e3d.js.map": "/ReactTask6/static/js/main.f0d58e3d.js.map",
+    "787.0ae72898.chunk.js.map": "/ReactTask6/static/js/787.0ae72898.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e60c5eb3.css",
+    "static/js/main.f0d58e3d.js"
+  ]
+}
